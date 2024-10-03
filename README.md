@@ -1,6 +1,6 @@
 ![image0](https://github.com/user-attachments/assets/947dd461-b489-4bf0-adfd-d00a9adaa266)
 
-<img src="gui.gif" width="1200" height="676"/>
+<img src="gui.gif" width="1200" height="450"/>
 
 _Vortex GUI shown above. Release date December 2024_
 
