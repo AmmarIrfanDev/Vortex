@@ -10,6 +10,8 @@ Vortex is a chess bot written in C++ and powered by libtorch, designed for high 
    https://www.python.org/downloads/
    
 4) Go to https://pytorch.org/ and download the latest Libtorch.
+   This is the one I downloaded:
+![image](https://github.com/user-attachments/assets/ac6a0d50-837d-4ed8-8758-9d9d2666822e)
 
 
 5) Tested Pytorch: Stable 2.4.1 C++/Java CUDA 12.1 (CUDA is not required)
