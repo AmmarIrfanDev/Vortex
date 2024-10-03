@@ -10,7 +10,8 @@ Vortex is a chess bot written in C++ and powered by libtorch, designed for high 
    https://www.python.org/downloads/
    
 4) Go to https://pytorch.org/ and download the latest Libtorch.
-   This is the one I downloaded:
+
+   This is the one I downloaded (the release one):
    
 ![image](https://github.com/user-attachments/assets/ac6a0d50-837d-4ed8-8758-9d9d2666822e)
 
@@ -23,4 +24,10 @@ Vortex is a chess bot written in C++ and powered by libtorch, designed for high 
    
    Download the CUDA version supported by the Pytorch version you want
 
-   
+7) Once downloaded, navigate to libtorch-win-shared-with-deps-2.4.1+cu124.zip\libtorch\lib (your version may be different)
+
+   Copy all of the files ending with .dll (dont copy any of the other files):
+
+   ![image](https://github.com/user-attachments/assets/1891d8e4-1d29-4faa-acae-7ae3d96788ef)
+
+8) Navigate where you want Vortex to be and run: ```git clone```
