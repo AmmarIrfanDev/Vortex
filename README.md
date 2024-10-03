@@ -1,5 +1,13 @@
 # Vortex
-Vortex is a chess bot written in C++ and powered by libtorch, designed for high performance and accuracy.
+Vortex is a chess bot implemented in C++ and utilizing libtorch for efficient computation. It leverages a feedforward neural network architecture to evaluate board states and make strategic moves based on real-time assessments. The model takes in a tensor representation of the chessboard, incorporating both the positions of the pieces and the current score, to predict optimal moves.
+
+The bot employs advanced techniques for preprocessing board states into a one-hot encoded format. It includes robust validation mechanisms to ensure legality of moves, making it adaptable for both standard and custom chess variants.
+
+Vortex showcases the capability of neural networks to engage in strategic gameplay, providing insights into move selection and game dynamics. It serves as a framework for further research and development in LLM applied to chess, with potential for enhancements such as reinforcement learning and advanced evaluation metrics.
+
+# Customisability
+
+Vortex can mimic various chess player styles, allowing users to fine-tune the bot's behavior to reflect different strategies and approaches to the game. Through customizable hyperparameters, users can modify the model's aggressiveness, positional play, and defensive tendencies, enabling it to simulate a range of playing styles—from tactical attackers to positional defenders. Additionally, the architecture supports the integration of user-defined heuristics and evaluation functions, providing a flexible framework for enhancing decision-making processes. This level of customization not only allows players to tailor the bot to their preferences but also facilitates experimentation with different strategies, making Vortex a powerful tool for both training and analysis in chess.
 
 # Windows Installation:
 1) Make sure you have Python 3.8 or later installed
