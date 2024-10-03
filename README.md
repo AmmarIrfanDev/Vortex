@@ -1,7 +1,8 @@
 ![image0](https://github.com/user-attachments/assets/947dd461-b489-4bf0-adfd-d00a9adaa266)
 
 
-https://github.com/user-attachments/assets/44030ec5-f2e6-439b-bce6-16779fb1f476
+![Sequence01_1-ezgif com-crop](https://github.com/user-attachments/assets/17ba8636-67c3-454f-b6f8-934553cf538f)
+
 
 
 Vortex is a chess bot implemented in C++ and utilizing libtorch for efficient computation. It leverages a feedforward neural network architecture to evaluate board states and make strategic moves based on real-time assessments. The model takes in a tensor representation of the chessboard, incorporating both the positions of the pieces and the current score, to predict optimal moves.
