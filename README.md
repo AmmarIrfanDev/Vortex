@@ -28,6 +28,14 @@ Vortex is a chess bot written in C++ and powered by libtorch, designed for high 
 
    Copy all of the files ending with .dll (dont copy any of the other files):
 
-   ![image](https://github.com/user-attachments/assets/1891d8e4-1d29-4faa-acae-7ae3d96788ef)
+![image](https://github.com/user-attachments/assets/1891d8e4-1d29-4faa-acae-7ae3d96788ef)
 
-8) Navigate where you want Vortex to be and run: ```git clone```
+8) Navigate where you want Vortex to be and run: ```git clone https://github.com/AmmarIrfanDev/Vortex.git```
+
+9) Open ```Vortex.sln``` (you need Visual Studio 2022 installed if you have not done so already)
+
+10) Build the solution once in Debug and Release.
+
+11) Paste all of the dll files in Vortex/x64/Release and Vortex/x64/Debug
+
+12) Enjoy using Vortex!
