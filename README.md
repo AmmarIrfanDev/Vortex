@@ -2,7 +2,7 @@
 
 
 ![Sequence01_1-ezgif com-crop](https://github.com/user-attachments/assets/17ba8636-67c3-454f-b6f8-934553cf538f)
-<img src="Sequence01_1-ezgif com-crop" width="250" height="250"/>
+<img src="gui.gif" width="250" height="250"/>
 
 _Vortex GUI shown above. Release date December 2024_
 
