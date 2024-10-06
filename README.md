@@ -4,6 +4,8 @@
 
 _Example useage shown_
 
+WARNING: You MUST build in Release mode, Debug is currently not working!
+
 Vortex is a chess bot implemented in C++ and utilizing libtorch for efficient computation. It leverages a feedforward neural network architecture to evaluate board states and make strategic moves based on real-time assessments. The model takes in a tensor representation of the chessboard, incorporating both the positions of the pieces and the current score, to predict optimal moves.
 
 The bot employs advanced techniques for preprocessing board states into a one-hot encoded format. It includes robust validation mechanisms to ensure legality of moves, making it adaptable for both standard and custom chess variants.
@@ -47,7 +49,7 @@ Vortex can mimic various chess player styles, allowing users to fine-tune the bo
 
 9) Open ```Vortex.sln``` (you need Visual Studio 2022 installed if you have not done so already)
 
-10) Build the solution once in Debug and Release.
+10) Build the solution once in Release.
 
 11) Paste all of the dll files in Vortex/x64/Release and Vortex/x64/Debug
 
